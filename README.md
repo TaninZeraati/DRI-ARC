@@ -46,3 +46,8 @@ Use the `ssh` command to log in to a cluster. Replace `<username>` with your All
 
 ```bash
 ssh <username>@<cluster_name>.computecanada.ca
+```
+
+Example:
+```ssh okpas30@beluga.computecanada.ca```
+
