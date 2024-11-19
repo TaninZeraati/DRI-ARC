@@ -53,7 +53,7 @@ Example:
 ```ssh okpas30@beluga.computecanada.ca```
 On your first login, you may need to accept the server’s fingerprint by typing yes and set extra information.
 
-## **3. Transferring Files
+## **3. Transferring Files**
 
 ### **From Local Machine to Server**
 Use the `scp` (Secure Copy Protocol) command:
