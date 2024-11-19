@@ -73,7 +73,8 @@ scp <username>@<cluster_name>.computecanada.ca:/path/to/remote/file <path_to_loc
 
 Example: ```scp okpas30@beluga.computecanada.ca:/home/okpas30/bertexperimentieee.py ~/Downloads/```
 
-## **4. Writing a Slurm Job Script
+## **4. Writing a Slurm Job Script**
+
 ### **What is a Job?**
 - A **job** is a task or series of tasks submitted to the cluster for execution.
 - Jobs are managed by a scheduler, such as Slurm, which ensures efficient resource allocation.
